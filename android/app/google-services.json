@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853736288350",
+    "project_id": "bit-nine-demo",
+    "storage_bucket": "bit-nine-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853736288350:android:6fd6b99d5ee01af23904cf",
+        "android_client_info": {
+          "package_name": "com.example.bit_nine_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853736288350-3er75l97sc9s1pgncov1breo89gdkj58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzziP2u4nmWD6jG2TNCx5Ip9xcO1tKz40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853736288350-3er75l97sc9s1pgncov1breo89gdkj58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
