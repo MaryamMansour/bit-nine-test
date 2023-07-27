@@ -8,14 +8,20 @@ Cloud Database: The website uses Firebase’s cloud database to store and retrie
 MVVM Architecture: The website is built using the Model-View-ViewModel (MVVM) architecture, which separates the user interface from the underlying data and logic, making it easier to maintain and scale.
 
 **Technologies Used**
-Firebase Authentication
-Firebase Cloud Database
-MVVM Architecture
-Flutter Framework
+-Firebase Authentication
+
+-Firebase Cloud Database
+
+-MVVM Architecture
+
+-Flutter Framework
 
 **How to Use**
-Sign up for an account or log in using an existing account.
-Browse the content and interact with the website as desired.
-Future Development
-Mobile App: Since this project is built using Flutter, it can easily be developed into a mobile app for iOS and Android devices.
-Firebase Hosting: The website can be deployed using Firebase’s hosting service, which provides fast and secure hosting for web apps.
+-Sign up for an account or log in using an existing account.
+
+-Browse the content and interact with the website as desired.
+
+**Future Development**
+-Mobile App: Since this project is built using Flutter, it can easily be developed into a mobile app for iOS and Android devices.
+
+-Firebase Hosting: The website can be deployed using Firebase’s hosting service, which provides fast and secure hosting for web apps.
