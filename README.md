@@ -25,3 +25,26 @@ MVVM Architecture: The website is built using the Model-View-ViewModel (MVVM) ar
 -Mobile App: Since this project is built using Flutter, it can easily be developed into a mobile app for iOS and Android devices.
 
 -Firebase Hosting: The website can be deployed using Firebase’s hosting service, which provides fast and secure hosting for web apps.
+
+
+
+##  Screenshots
+
+<details>
+<summary>Click to expand</summary>
+
+### home Screen
+<img src="lib/images/home.png" alt="splash" width="600" height="350">
+
+<img src="lib/images/home1.png" alt="splash" width="600" height="350">
+
+<img src="lib/images/home2.png" alt="splash" width="600" height="350">
+
+<img src="lib/images/home3.png" alt="splash" width="600" height="350">
+
+<img src="lib/images/login.png" alt="splash" width="600" height="350">
+<img src="lib/images/signup.png" alt="splash" width="600" height="350">
+
+
+
+</details>
